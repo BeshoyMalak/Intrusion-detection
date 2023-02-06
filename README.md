@@ -1,4 +1,4 @@
-#Handling Anomalies in Intrusion Detection using Machine Learning
+# Handling Anomalies in Intrusion Detection using Machine Learning
 Intrusion detection is an important aspect of network security to identify any unauthorized access to computer systems. Machine learning algorithms can be used to identify these anomalies and improve the accuracy of intrusion detection. This repository provides a demonstration of handling anomalies in intrusion detection using three machine learning algorithms: Random Forest (RF), Support Vector Classifier (SVC), and K-Nearest Neighbors (KNN) and three datasets: KDD99, NSL-KDD, and UNSW-NB15.
 
 # Requirements
